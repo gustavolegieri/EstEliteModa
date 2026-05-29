@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="100" y1="0" x2="100" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="100" cy="38" rx="18" ry="22" fill="url(#bg)"/>
+  <path d="M93 58 L107 58 L109 72 L91 72 Z" fill="url(#bg)"/>
+  <!-- Oval: volume central, ombros e quadris menores que cintura -->
+  <path d="M62 82
+           C 76 76, 124 76, 138 82
+           L 140 100
+           C 148 122, 156 150, 156 174
+           C 154 198, 146 224, 140 248
+           L 138 268
+           L 62 268
+           L 60 248
+           C 54 224, 46 198, 44 174
+           C 44 150, 52 122, 60 100 Z" fill="url(#bg)"/>
+  <path d="M60 100 C 48 128, 44 160, 48 196 L 56 196 C 58 162, 64 132, 70 106 Z" fill="url(#bg)"/>
+  <path d="M140 100 C 152 128, 156 160, 152 196 L 144 196 C 142 162, 136 132, 130 106 Z" fill="url(#bg)"/>
+  <path d="M62 268 C 64 310, 68 352, 72 388 L 94 388 C 92 348, 90 308, 90 268 Z" fill="url(#bg)"/>
+  <path d="M110 268 C 110 308, 108 348, 106 388 L 128 388 C 132 352, 136 310, 138 268 Z" fill="url(#bg)"/>
+</svg>

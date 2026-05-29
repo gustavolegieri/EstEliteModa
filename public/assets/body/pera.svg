@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="100" y1="0" x2="100" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="100" cy="38" rx="18" ry="22" fill="url(#bg)"/>
+  <path d="M93 58 L107 58 L109 72 L91 72 Z" fill="url(#bg)"/>
+  <!-- Pera: ombros estreitos, quadris largos -->
+  <path d="M68 82
+           C 80 76, 120 76, 132 82
+           L 134 100
+           C 130 120, 126 140, 124 158
+           C 122 168, 124 176, 128 186
+           C 140 208, 150 232, 154 258
+           L 150 268
+           L 50 268
+           L 46 258
+           C 50 232, 60 208, 72 186
+           C 76 176, 78 168, 76 158
+           C 74 140, 70 120, 66 100 Z" fill="url(#bg)"/>
+  <path d="M66 100 C 54 130, 50 162, 54 196 L 62 196 C 64 162, 70 132, 76 105 Z" fill="url(#bg)"/>
+  <path d="M134 100 C 146 130, 150 162, 146 196 L 138 196 C 136 162, 130 132, 124 105 Z" fill="url(#bg)"/>
+  <path d="M50 268 C 54 312, 60 355, 64 388 L 92 388 C 90 345, 88 305, 88 268 Z" fill="url(#bg)"/>
+  <path d="M112 268 C 112 305, 110 345, 108 388 L 136 388 C 140 355, 146 312, 150 268 Z" fill="url(#bg)"/>
+</svg>

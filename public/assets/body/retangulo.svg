@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="100" y1="0" x2="100" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="100" cy="38" rx="18" ry="22" fill="url(#bg)"/>
+  <path d="M93 58 L107 58 L109 72 L91 72 Z" fill="url(#bg)"/>
+  <!-- Retângulo: ombros = cintura = quadris -->
+  <path d="M60 82
+           C 75 76, 125 76, 140 82
+           L 142 100
+           C 138 130, 136 158, 136 186
+           C 138 212, 140 238, 142 258
+           L 138 268
+           L 62 268
+           L 58 258
+           C 60 238, 62 212, 64 186
+           C 64 158, 62 130, 58 100 Z" fill="url(#bg)"/>
+  <path d="M58 100 C 46 130, 42 165, 46 200 L 54 200 C 56 165, 62 132, 68 105 Z" fill="url(#bg)"/>
+  <path d="M142 100 C 154 130, 158 165, 154 200 L 146 200 C 144 165, 138 132, 132 105 Z" fill="url(#bg)"/>
+  <path d="M62 268 C 64 310, 68 352, 72 388 L 94 388 C 92 348, 90 308, 90 268 Z" fill="url(#bg)"/>
+  <path d="M110 268 C 110 308, 108 348, 106 388 L 128 388 C 132 352, 136 310, 138 268 Z" fill="url(#bg)"/>
+</svg>

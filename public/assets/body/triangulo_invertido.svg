@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="100" y1="0" x2="100" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="100" cy="38" rx="18" ry="22" fill="url(#bg)"/>
+  <path d="M93 58 L107 58 L109 72 L91 72 Z" fill="url(#bg)"/>
+  <!-- Triângulo invertido: ombros largos, quadris estreitos -->
+  <path d="M45 82
+           C 65 75, 135 75, 155 82
+           L 156 100
+           C 148 122, 138 142, 130 162
+           C 124 174, 122 182, 124 192
+           C 130 212, 134 232, 136 256
+           L 132 266
+           L 68 266
+           L 64 256
+           C 66 232, 70 212, 76 192
+           C 78 182, 76 174, 70 162
+           C 62 142, 52 122, 44 100 Z" fill="url(#bg)"/>
+  <path d="M44 100 C 30 128, 26 162, 32 198 L 40 198 C 44 162, 50 130, 56 104 Z" fill="url(#bg)"/>
+  <path d="M156 100 C 170 128, 174 162, 168 198 L 160 198 C 156 162, 150 130, 144 104 Z" fill="url(#bg)"/>
+  <path d="M68 266 C 70 308, 74 350, 78 388 L 96 388 C 94 348, 92 308, 92 266 Z" fill="url(#bg)"/>
+  <path d="M108 266 C 108 308, 106 348, 104 388 L 122 388 C 126 350, 130 308, 132 266 Z" fill="url(#bg)"/>
+</svg>

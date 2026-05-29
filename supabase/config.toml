@@ -1,0 +1,7 @@
+project_id = "yfeejheoxsiyiopvcxen"
+
+[functions.bootstrap-admin]
+verify_jwt = false
+
+[functions.stripe-webhook]
+verify_jwt = false

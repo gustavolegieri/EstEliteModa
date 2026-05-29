@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="100" y1="0" x2="100" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <!-- Head -->
+  <ellipse cx="100" cy="38" rx="18" ry="22" fill="url(#bg)"/>
+  <!-- Neck -->
+  <path d="M93 58 L107 58 L109 72 L91 72 Z" fill="url(#bg)"/>
+  <!-- Body: shoulders wide = hips wide, waist cinched (ampulheta) -->
+  <path d="M55 82
+           C 70 76, 130 76, 145 82
+           L 148 100
+           C 138 120, 130 138, 122 158
+           C 118 170, 118 178, 122 188
+           C 132 208, 142 230, 146 252
+           L 142 262
+           L 58 262
+           L 54 252
+           C 58 230, 68 208, 78 188
+           C 82 178, 82 170, 78 158
+           C 70 138, 62 120, 52 100 Z" fill="url(#bg)"/>
+  <!-- Arms -->
+  <path d="M52 100 C 40 130, 36 165, 40 200 L 48 200 C 50 165, 56 132, 62 105 Z" fill="url(#bg)"/>
+  <path d="M148 100 C 160 130, 164 165, 160 200 L 152 200 C 150 165, 144 132, 138 105 Z" fill="url(#bg)"/>
+  <!-- Legs -->
+  <path d="M58 262 C 60 305, 64 350, 68 388 L 92 388 C 90 345, 88 302, 88 262 Z" fill="url(#bg)"/>
+  <path d="M112 262 C 112 302, 110 345, 108 388 L 132 388 C 136 350, 140 305, 142 262 Z" fill="url(#bg)"/>
+</svg>
