@@ -9,8 +9,7 @@ const app = express();
 const PORT = Number(process.env.PORT) || 3001;
 const HOST = process.env.HOST || '0.0.0.0';
 
-console.log("MP TOKEN EXISTS:", !!MP_ACCESS_TOKEN);
-console.log("MP TOKEN START:", MP_ACCESS_TOKEN?.slice(0, 10));
+console.log("MP RESULT:", result);
 
 const MP_ACCESS_TOKEN =
   process.env.MERCADO_PAGO_ACCESS_TOKEN ||
